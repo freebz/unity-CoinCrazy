@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Models\PlayerController.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Models\ShortMoveController.js">
     <Files>
       <File FileName="Assets\Models\PlayerController.js" Line="37" Column="2" />
+      <File FileName="Assets\Models\ShortMoveController.js" Line="23" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
