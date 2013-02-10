@@ -47,6 +47,7 @@
      <Compile Include="Assets\Models\PlayerController.js" />
      <Compile Include="Assets\Models\ShortMoveController.js" />
      <Compile Include="Assets\Script\Coin.js" />
+     <Compile Include="Assets\Script\DamageEffector.js" />
      <Compile Include="Assets\Script\Generator.js" />
      <Compile Include="Assets\Script\PlayerStatus.js" />
      <Compile Include="Assets\Script\SpikeBall.js" />

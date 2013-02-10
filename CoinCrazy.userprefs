@@ -1,11 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\SpikeBall.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerStatus.js">
     <Files>
       <File FileName="Assets\Models\PlayerController.js" Line="1" Column="1" />
       <File FileName="Assets\Models\ShortMoveController.js" Line="1" Column="1" />
       <File FileName="Assets\Script\Coin.js" Line="8" Column="2" />
       <File FileName="Assets\Script\SpikeBall.js" Line="8" Column="2" />
+      <File FileName="Assets\Script\PlayerStatus.js" Line="13" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
